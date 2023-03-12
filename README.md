@@ -9,4 +9,6 @@ https://www.thingiverse.com/thing:5884270
 
 https://www.youtube.com/shorts/ma4m3f4RMEI
 
+https://blog.lugsaar.de/posts/2023-03-07-lugposts/
+
 Lucky is controlled by an ESP8266, D1mini.
