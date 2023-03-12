@@ -25,9 +25,9 @@ const char* password = "xx";
 //const char* password = "xx";
 
 //send logfile per email
-#define SMTP_HOST "22x22.de"
-#define AUTHOR_EMAIL "manfred@22x22.de"
-#define AUTHOR_PASSWORD "vv4*44hC"
+#define SMTP_HOST "xx"
+#define AUTHOR_EMAIL "xx"
+#define AUTHOR_PASSWORD "xx"
 
 //my D1mini is http://esp-da6ec7/
 //give him http://192.168.63.93/get?input1=mumbleON or
